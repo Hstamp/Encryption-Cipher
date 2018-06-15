@@ -55,7 +55,7 @@ public class CaesarCode {
 			
 			
 			//Retrieve letters from the index 
-			char replace = alphabet.charAt(alphabetInt[i]);		
+			char replace = alphabet.charAt(alphabetInt[i]);	
 			plaintext += replace;
 			
 		}
